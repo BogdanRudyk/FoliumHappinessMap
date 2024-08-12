@@ -61,7 +61,7 @@
    pip install folium pandas
 
 2. Запустите main.py для генерации карт в формате .html:
-```bash
-python main.py
+   ```bash
+   python main.py
 3. Откройте main.html в веб-браузере, чтобы увидеть результирующую карту и веб-страницу.
 
